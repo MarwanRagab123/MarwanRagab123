@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marwanragab123" alt="marwanragab123" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/marwan-ragab-3bbba6229](https://www.linkedin.com/in/marwan-ragab-3bbba6229)
-
-- 📫 How to reach me **marwanrajap311@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dvgt9uLoADPMBnFAeluAJV-qkQd2AzLN/view?usp=sharing](https://drive.google.com/file/d/1Dvgt9uLoADPMBnFAeluAJV-qkQd2AzLN/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marwan-ragab-3bbba6229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan-ragab-3bbba6229" height="30" width="40" /></a>
